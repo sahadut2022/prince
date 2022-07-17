@@ -24,6 +24,6 @@ def Update():
     print("\n\x1b[1;92m Updating Soon :-/")
     print(' Please Wait For Update 😊 ')
     print(' Subscribe My Youtube Channel')
-    os.system('xdg-open https://www.facebook.com/groups/351076900316263/?ref=share');time.sleep(3)
+    os.system('xdg-open https://www.facebook.com/͜শেষ-স্বপ্ন-ツ-ShesShopno͜-108972067240971/');time.sleep(3)
     input('')
 Update()
